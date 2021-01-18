@@ -1,0 +1,55 @@
+h1 {
+    text-align: center;
+    font-size: 25px;
+}
+body {
+    background-image: url("Images/background.png");
+    background-size: 100% auto;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    opacity: 1.5; 
+    color:rgb(44, 248, 71)
+    
+}
+hr {
+    background-color: white;
+    border-color: white ;
+    border-radius: 2px;
+    border: solid 2.5px ;
+    color: white    
+}
+h1 {
+    border-style: solid;
+    border-width: 3.5px;
+    border-radius: 6px;
+    content: "";
+    display: block;
+    margin: 0 auto;
+    width: 24%;
+    padding-top: 20px;
+    border-bottom: 3.5px solid #e6db4c;
+    border-color: #e6db4c;
+    border-top: hidden;
+    
+}
+i {
+    color: rgb(111, 227, 231);
+}
+u {
+    color: #E6E349;
+}
+a {
+    color:rgb(228, 204, 69)
+}
+h2 {
+    color:salmon
+}
+.kakao {
+    margin: auto;
+    width: 1500px;
+}
+.mango {
+    border: white solid;
+    border-radius: 30px;
+
+}
