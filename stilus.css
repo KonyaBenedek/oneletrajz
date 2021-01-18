@@ -1,6 +1,7 @@
 h1 {
     text-align: center;
     font-size: 25px;
+    color: crimson;
 }
 body {
     background-image: url("Images/background.png");
